@@ -1,0 +1,39 @@
+/* Ha Dinh's custom css file */
+
+._footer-legal a[data-v-5f2d7769] {
+  color: black;
+}
+.menu-item[data-v-676471da=""]:nth-child(1)
+  > a[data-v-676471da=""][data-v-d3f98236=""],
+.menu-item[data-v-676471da=""]:nth-child(2)
+  > a[data-v-676471da=""][data-v-d3f98236=""],
+.menu-item[data-v-676471da=""]:nth-child(3)
+  > a[data-v-676471da=""][data-v-d3f98236=""] {
+  color: white;
+}
+div.gradient[data-v-676471da]{
+    background: black!important;
+    height: 4rem;
+}
+.container.mx-auto.relative.z-10.w-full.flex.items-center.justify-between.px-5{
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+div.container.mx-auto.relative.z-10.px-5{
+    color:white;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    background-color: black;
+    border-radius: .5rem;
+}
+input.w-full.pl-12.pr-4.h-12.block.border.border-gray-200.rounded.outline-none.bg-transparent.text-white.placeholder-white{
+    background-color: black!important;
+}
+body{
+    width:100%;
+    height: auto;
+}
+p[data-v-089e1d94=""][data-v-d3f98236=""]{
+    color:black;
+    max-width: 80%;
+}
